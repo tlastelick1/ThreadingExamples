@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=uA8X5zNOGw8     // creating two threads to run concurrently
+https://www.geeksforgeeks.org/multithreading-c-2/	// explanation of pthread_create()
+https://www.systutorials.com/docs/linux/man/3p-rand_r/	// r_rand() explanation
+https://stackoverflow.com/questions/30590124/what-is-the-significance-of-int-in-this-program
+							// explains (int *) s syntax 
+https://docs.oracle.com/cd/E19455-01/806-5257/6je9h032l/index.html#attrib-39150	// thread attributes
+https://www.geeksforgeeks.org/estimating-value-pi-using-monte-carlo/	// monte carlo estimation of pi 
+https://stackoverflow.com/questions/59182688/how-to-convert-void-to-int-without-losing-information-in-c	// understanding void *
+https://overiq.com/c-programming-101/void-pointers-in-c/	// void * as an array
+https://www.tutorialspoint.com/cprogramming/c_memory_management.htm 	// memory allocation
+https://www.techiedelight.com/find-size-of-an-array-c/	// sizeof operator 
+https://riptutorial.com/c/example/4435/printing-the-command-line-arguments // printing *argv[]
+https://stackoverflow.com/questions/51660284/finding-the-size-of-an-unknown-array-in-c	// find size of unknown array
+http://www.csc.villanova.edu/~mdamian/threads/posixthreads.html	// pthread_exit(NULL)
